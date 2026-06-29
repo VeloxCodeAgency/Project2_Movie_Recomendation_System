@@ -113,29 +113,6 @@ Combines **both approaches** for best accuracy — exactly how Netflix works!
 
 ---
 
-## 🚀 How to Run
-
-1. Open [Google Colab](https://colab.research.google.com)
-2. Upload `Movie_Recommendation_System.ipynb`
-3. Click **Runtime → Run All**
-4. Get personalized movie recommendations instantly ✅
-
----
-
-## 📁 Project Structure
-
-```
-📦 Movie-Recommendation-System
- ┣ 📓 Movie_Recommendation_System.ipynb
- ┣ 📊 eda_movies.png
- ┣ 📊 cosine_similarity.png
- ┣ 📊 user_correlation.png
- ┣ 📊 recommendation_summary.png
- ┗ 📄 README.md
-```
-
----
-
 ## 💡 Key Learnings
 
 - Content-Based filtering works even without user history (solves Cold Start)
